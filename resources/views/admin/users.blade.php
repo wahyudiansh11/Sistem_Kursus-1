@@ -10,7 +10,7 @@
     <meta name="description" content="" />
     <meta name="author" content="" />
 
-    <title>Dashboard Admin Kursus - Codeworshipper</title>
+    <title>Dashboard Admin Kursus</title>
 
     <link rel="shortcut icon" href="favicon.png" type="image/x-icon" />
 
@@ -216,7 +216,7 @@
                   aria-expanded="false"
                 >
                   <span class="mr-2 d-none d-lg-inline text-gray-600 small"
-                    >User</span
+                    >Admin</span
                   >
                   <img
                     class="img-profile rounded-circle"

@@ -345,7 +345,7 @@ Materi disusun secara sistematis dan dilengkapi panduan visual agar Anda bisa la
 
                   <div class="business_btn">
                     <a href="" class="btn btn-default m-top-20">Read More</a>
-                    <a href="{{ route('auth') }}rimary m-top-20"
+                    <a href="{{ route('auth') }}" class="btn btn-primary m-top-20"
                       >Start Now</a
                     >
                   </div>
@@ -392,10 +392,46 @@ Materi disusun secara sistematis dan dilengkapi panduan visual agar Anda bisa la
                       <div class="col-sm-3">
                         <div class="port_item xs-m-top-30">
                           <div class="port_img">
-                            <img src="assets/images/work-img1.jpg" alt="" />
+                            <img src="assets/images//Wahyu.jpg" alt="" />
                             <div class="port_overlay text-center">
                               <a
-                                href="assets/images/work-img1.jpg"
+                                href="assets/images/Wahyu.jpg"
+                                class="popup-img"
+                                >+</a
+                              >
+                            </div>
+                          </div>
+                          <div class="port_caption m-top-20">
+                            <h5>Wahyu Firdiansah</h5>
+                            <h6>- Roamer</h6>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-sm-3">
+                        <div class="port_item xs-m-top-30">
+                          <div class="port_img">
+                            <img src="assets/images/raizel.jpeg" alt="" />
+                            <div class="port_overlay text-center">
+                              <a
+                                href="assets/images/raizel.jpeg"
+                                class="popup-img"
+                                >+</a
+                              >
+                            </div>
+                          </div>
+                          <div class="port_caption m-top-20">
+                            <h5>Achmad Rizal Firmansyah</h5>
+                            <h6>- Jungler</h6>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-sm-3">
+                        <div class="port_item xs-m-top-30">
+                          <div class="port_img">
+                            <img src="assets/images/work-img3.jpg" alt="" />
+                            <div class="port_overlay text-center">
+                              <a
+                                href="assets/images/work-img3.jpg"
                                 class="popup-img"
                                 >+</a
                               >
@@ -404,6 +440,49 @@ Materi disusun secara sistematis dan dilengkapi panduan visual agar Anda bisa la
                           <div class="port_caption m-top-20">
                             <h5>Your Course Title</h5>
                             <h6>- Graphic Design</h6>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-sm-3">
+                        <div class="port_item xs-m-top-30">
+                          <div class="port_img">
+                            <img src="assets/images/work-img4.jpg" alt="" />
+                            <div class="port_overlay text-center">
+                              <a
+                                href="assets/images/work-img4.jpg"
+                                class="popup-img"
+                                >+</a
+                              >
+                            </div>
+                          </div>
+                          <div class="port_caption m-top-20">
+                            <h5>Your Course Title</h5>
+                            <h6>- Graphic Design</h6>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="item">
+                  <div class="container">
+                    <div class="row">
+                      <div class="col-sm-3">
+                        <div class="port_item xs-m-top-30">
+                          <div class="port_img">
+                            <img src="assets/images/Wahyu.jpg" alt="" />
+                            <div class="port_overlay text-center">
+                              <a
+                                href="assets/images/Wahyu.jpg"
+                                class="popup-img"
+                                >+</a
+                              >
+                            </div>
+                          </div>
+                          <div class="port_caption m-top-20">
+                            <h5>Wahyu Firdiasah</h5>
+                            <h6>- Roamer</h6>
                           </div>
                         </div>
                       </div>
@@ -471,97 +550,18 @@ Materi disusun secara sistematis dan dilengkapi panduan visual agar Anda bisa la
                       <div class="col-sm-3">
                         <div class="port_item xs-m-top-30">
                           <div class="port_img">
-                            <img src="assets/images/work-img1.jpg" alt="" />
+                            <img src="assets/images/Wahyu.jpg" alt="" />
                             <div class="port_overlay text-center">
                               <a
-                                href="assets/images/work-img1.jpg"
+                                href="assets/images/Wahyu.jpg"
                                 class="popup-img"
                                 >+</a
                               >
                             </div>
                           </div>
                           <div class="port_caption m-top-20">
-                            <h5>Your Course Title</h5>
-                            <h6>- Graphic Design</h6>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-sm-3">
-                        <div class="port_item xs-m-top-30">
-                          <div class="port_img">
-                            <img src="assets/images/work-img2.jpg" alt="" />
-                            <div class="port_overlay text-center">
-                              <a
-                                href="assets/images/work-img2.jpg"
-                                class="popup-img"
-                                >+</a
-                              >
-                            </div>
-                          </div>
-                          <div class="port_caption m-top-20">
-                            <h5>Your Course Title</h5>
-                            <h6>- Graphic Design</h6>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-sm-3">
-                        <div class="port_item xs-m-top-30">
-                          <div class="port_img">
-                            <img src="assets/images/work-img3.jpg" alt="" />
-                            <div class="port_overlay text-center">
-                              <a
-                                href="assets/images/work-img3.jpg"
-                                class="popup-img"
-                                >+</a
-                              >
-                            </div>
-                          </div>
-                          <div class="port_caption m-top-20">
-                            <h5>Your Course Title</h5>
-                            <h6>- Graphic Design</h6>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-sm-3">
-                        <div class="port_item xs-m-top-30">
-                          <div class="port_img">
-                            <img src="assets/images/work-img4.jpg" alt="" />
-                            <div class="port_overlay text-center">
-                              <a
-                                href="assets/images/work-img4.jpg"
-                                class="popup-img"
-                                >+</a
-                              >
-                            </div>
-                          </div>
-                          <div class="port_caption m-top-20">
-                            <h5>Your Course Title</h5>
-                            <h6>- Graphic Design</h6>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="item">
-                  <div class="container">
-                    <div class="row">
-                      <div class="col-sm-3">
-                        <div class="port_item xs-m-top-30">
-                          <div class="port_img">
-                            <img src="assets/images/work-img1.jpg" alt="" />
-                            <div class="port_overlay text-center">
-                              <a
-                                href="assets/images/work-img1.jpg"
-                                class="popup-img"
-                                >+</a
-                              >
-                            </div>
-                          </div>
-                          <div class="port_caption m-top-20">
-                            <h5>Your Course Title</h5>
-                            <h6>- Graphic Design</h6>
+                            <h5>Wahyu Firdiasnah</h5>
+                            <h6>- Roamer</h6>
                           </div>
                         </div>
                       </div>

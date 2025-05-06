@@ -10,7 +10,7 @@
     <meta name="description" content="" />
     <meta name="author" content="" />
 
-    <title>Dashboard User Kursus - Codeworshipper</title>
+    <title>Dashboard User Kursus </title>
 
     <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
 
