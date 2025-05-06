@@ -84,7 +84,7 @@
                     </li>
                     <li>
                       <a
-                        href="https://youtube.com/@codeworshipper"
+                        href="https://youtube.com"
                         target="_blank"
                         ><i class="fa fa-youtube"></i
                       ></a>
@@ -755,17 +755,17 @@ Materi disusun secara sistematis dan dilengkapi panduan visual agar Anda bisa la
               <div class="col-md-8">
                 <div class="action_item text-center">
                   <h2 class="text-white text-uppercase">
-                    Say Thanks With Subscribe! Mksh yaaa
+                    Belajar itu seru, apalagi bareng kamu! 🙌
                   </h2>
                 </div>
               </div>
               <div class="col-md-4">
                 <div class="action_btn text-left sm-text-center">
                   <a
-                    href="https://www.youtube.com/@codeworshipper?sub_confirmation=1"
+                    href=""
                     class="btn btn-default"
                     target="_blank"
-                    >Subscribe Now</a
+                    >Thanks and Welcome</a
                   >
                 </div>
               </div>
