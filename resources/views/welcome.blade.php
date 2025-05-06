@@ -302,19 +302,19 @@
                   <div class="business_items text-center">
                     <div class="business_item">
                       <div class="business_img">
-                        <img src="assets/images/about-img1.png" alt="" />
+                        <img src="assets/images/kursus.jpg" alt="" />
                       </div>
                     </div>
 
                     <div class="business_item">
                       <div class="business_img">
-                        <img src="assets/images/about-img1.png" alt="" />
+                        <img src="assets/images/menjahit.jpg" alt="" />
                       </div>
                     </div>
 
                     <div class="business_item">
                       <div class="business_img">
-                        <img src="assets/images/about-img1.png" alt="" />
+                        <img src="assets/images/kue.jpeg" alt="" />
                       </div>
                     </div>
                   </div>
@@ -361,7 +361,7 @@ Materi disusun secara sistematis dan dilengkapi panduan visual agar Anda bisa la
           <div class="main_product roomy-80">
             <div class="head_title text-center fix">
               <h2 class="text-uppercase">What Students Say</h2>
-              <h5>Clean and Modern courses is our best specialist</h5>
+              <h5>Anggota Kelompok 4 :</h5>
             </div>
 
             <div
@@ -782,8 +782,7 @@ Materi disusun secara sistematis dan dilengkapi panduan visual agar Anda bisa la
                 <div class="widget_item widget_about">
                   <h5 class="text-white">About Us</h5>
                   <p class="m-top-20">
-                    Lorem ipsum dolor sit amet consec tetur adipiscing elit
-                    nulla aliquet pretium nisi in cursus maecenas nec eleifen.
+                    Kami adalah tempat belajar terbaik untuk mengembangkan keterampilan kreatif Anda. Dari dasar hingga mahir, kami mendampingi setiap langkah Anda menuju kesuksesan.
                   </p>
                   <div class="widget_ab_item m-top-30">
                     <div class="item_icon">
@@ -792,8 +791,7 @@ Materi disusun secara sistematis dan dilengkapi panduan visual agar Anda bisa la
                     <div class="widget_ab_item_text">
                       <h6 class="text-white">Location</h6>
                       <p>
-                        123 suscipit ipsum nam auctor mauris dui, ac
-                        sollicitudin mauris, Indonesia
+                        Jl. Raya Lenteng, No. 10 Batuan, Sumenep - Madura
                       </p>
                     </div>
                   </div>
@@ -826,8 +824,8 @@ Materi disusun secara sistematis dan dilengkapi panduan visual agar Anda bisa la
                       <img src="assets/images/ltst-img-1.jpg" alt="" />
                     </div>
                     <div class="widget_latst_item_text">
-                      <p>Lorem ipsum dolor sit amet, consectetur</p>
-                      <a href="">21<sup>th</sup> July 2016</a>
+                      <p>Tips Membuat Foto Produk Menarik</p>
+                      <a href="">02<sup>th</sup> Mei 2025</a>
                     </div>
                   </div>
                   <div class="widget_latst_item m-top-30">
@@ -835,8 +833,8 @@ Materi disusun secara sistematis dan dilengkapi panduan visual agar Anda bisa la
                       <img src="assets/images/ltst-img-2.jpg" alt="" />
                     </div>
                     <div class="widget_latst_item_text">
-                      <p>Lorem ipsum dolor sit amet, consectetur</p>
-                      <a href="">21<sup>th</sup> July 2016</a>
+                      <p>Kopi dan Kreativitas di Kelas Desain</p>
+                      <a href="">21<sup>th</sup> Mei 2025</a>
                     </div>
                   </div>
                   <div class="widget_latst_item m-top-30">
@@ -844,8 +842,8 @@ Materi disusun secara sistematis dan dilengkapi panduan visual agar Anda bisa la
                       <img src="assets/images/ltst-img-3.jpg" alt="" />
                     </div>
                     <div class="widget_latst_item_text">
-                      <p>Lorem ipsum dolor sit amet, consectetur</p>
-                      <a href="">21<sup>th</sup> July 2016</a>
+                      <p>Hasil Menjahit Siswa Minggu Ini!</p>
+                      <a href="">29<sup>th</sup> Mei 2025</a>
                     </div>
                   </div>
                 </div>
@@ -857,48 +855,44 @@ Materi disusun secara sistematis dan dilengkapi panduan visual agar Anda bisa la
                   <ul class="m-top-20">
                     <li class="m-top-20">
                       <a
-                        href="https://www.youtube.com/watch?v=tj2TJ66QRIo"
+                        href="https://www.youtube.com/watch?v=AP39tJnIQP8"
                         target="_blank"
-                        ><i class="fa fa-angle-right"></i> Chat App</a
+                        ><i class="fa fa-angle-right"></i> Cara Membuat Portofolio Menarik</a
                       >
                     </li>
                     <li class="m-top-20">
                       <a
-                        href="https://www.youtube.com/watch?v=YMj-tYrnOuQ"
+                        href="https://www.dimudahin.com/2024/11/ide-usaha-jahit-rumahan.html"
                         target="_blank"
-                        ><i class="fa fa-angle-right"></i> Template Website
-                        Premium</a
+                        ><i class="fa fa-angle-right"></i> 5 Ide Usaha dari Skill Menjahit</a
                       >
                     </li>
                     <li class="m-top-20">
                       <a
-                        href="https://www.youtube.com/watch?v=QqOg2xQw2Yw"
+                        href="https://ukmindonesia.id/baca-deskripsi-posts/11-cara-bangun-branding-umkm-yang-kuat-strategi-jitu-untuk-bersaing"
                         target="_blank"
-                        ><i class="fa fa-angle-right"></i> Cara Hosting
-                        Website</a
+                        ><i class="fa fa-angle-right"></i> Tips Branding untuk UMKM</a
                       >
                     </li>
                     <li class="m-top-20">
                       <a
-                        href="https://www.youtube.com/watch?v=51OqEADQfpQ"
+                        href="https://www.youtube.com/watch?v=0fJ9sx7BLdY"
                         target="_blank"
-                        ><i class="fa fa-angle-right"></i> Deploy Restfull
-                        API</a
+                        ><i class="fa fa-angle-right"></i> Panduan Bikin Kue Kering Modern</a
                       >
                     </li>
                     <li class="m-top-20">
                       <a
-                        href="https://www.youtube.com/watch?v=dcCYgvZ_kxc"
+                        href="https://www.youtube.com/watch?v=pI4j4j0VgHE"
                         target="_blank"
-                        ><i class="fa fa-angle-right"></i> Laravel Breeze</a
+                        ><i class="fa fa-angle-right"></i> Inspirasi Desain Undangan Digital</a
                       >
                     </li>
                     <li class="m-top-20">
                       <a
-                        href="https://www.youtube.com/watch?v=q_yJV1xElt0"
+                        href="https://www.youtube.com/watch?v=QfCJWcrXir8"
                         target="_blank"
-                        ><i class="fa fa-angle-right"></i> Membuat Web
-                        Autentikasi</a
+                        ><i class="fa fa-angle-right"></i>  Cara Bangun Bisnis dari Hobi</a
                       >
                     </li>
                   </ul>
@@ -922,8 +916,7 @@ Materi disusun secara sistematis dan dilengkapi panduan visual agar Anda bisa la
                   <div class="widget_brand m-top-40">
                     <a href="" class="text-uppercase">Kursus Kita</a>
                     <p>
-                      Lorem ipsum dolor sit amet consec tetur adipiscing elit
-                      nulla aliquet pretium nisi in
+                      Tempat belajar menjahit, membuat kue, dan desain yang menyenangkan dan aplikatif. Belajar langsung dari para ahli, dan wujudkan impianmu mulai hari ini!
                     </p>
                   </div>
                   <ul class="list-inline m-top-20">
