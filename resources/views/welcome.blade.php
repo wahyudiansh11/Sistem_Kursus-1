@@ -156,75 +156,75 @@
                   <div class="slid_item">
                     <div class="home_text">
                       <h2 class="text-white">
-                        Welcome to <strong>Kita</strong>
+                        Welcome to <strong>Project</strong>
                       </h2>
                       <h1 class="text-white">
-                        We Spread Knowledge All the Time
+                        Sistem Aplikasi Web Kursus
                       </h1>
                       <h3 class="text-white">
-                        - We Create a <strong>Websites</strong> on Youtube -
+                        - We are <strong>Kelompok</strong> 4 -
                       </h3>
                     </div>
 
                     <div class="home_btns m-top-40">
                       <a
-                        href="https://www.youtube.com/@codeworshipper?sub_confirmation=1"
+                        href=""
                         class="btn btn-primary m-top-20"
                         target="_blank"
                         >Subrek Now</a
                       >
                       <a
-                        href="https://codeworshipper.netlify.app"
+                        href="https://github.com/Raizel980/Sistem_Kursus"
                         class="btn btn-default m-top-20"
                         target="_blank"
-                        >See more CW</a
+                        >Lihat Detail</a
                       >
                     </div>
                   </div>
                   <div class="slid_item">
                     <div class="home_text">
                       <h2 class="text-white">
-                        Welcome to <strong>Kita</strong>
+                        Welcome to <strong>My Kursus</strong>
                       </h2>
                       <h1 class="text-white">
-                        We Spread Knowledge All the Time
+                       Kursus Sew
                       </h1>
                       <h3 class="text-white">
-                        - We Create a <strong>Websites</strong> on Youtube -
+                        - Pelatihan <strong>Kursus</strong> Menjahit -
                       </h3>
                     </div>
 
                     <div class="home_btns m-top-40">
                       <a
-                        href="https://www.youtube.com/@codeworshipper?sub_confirmation=1"
+                        href=""
                         class="btn btn-primary m-top-20"
                         target="_blank"
                         >Subrek Now</a
                       >
                       <a
-                        href="https://codeworshipper.netlify.app"
+                        href="https://www.youtube.com/watch?v=hufj3B0KlS8"
                         class="btn btn-default m-top-20"
                         target="_blank"
-                        >See more CW</a
+                        >Lihat Detail</a
                       >
                     </div>
                   </div>
                   <div class="slid_item">
                     <div class="home_text">
                       <h2 class="text-white">
-                        Welcome to <strong>Kita</strong>
+                        Welcome to <strong>My Kursus</strong>
                       </h2>
                       <h1 class="text-white">
-                        We Spread Knowledge All the Time
+                        Kursus Cake
                       </h1>
                       <h3 class="text-white">
-                        - We Create a <strong>Websites</strong> on Youtube -
+                        - Pelatihan <strong>Kursus</strong> Kue -
                       </h3>
                     </div>
 
                     <div class="home_btns m-top-40">
                       <a
-                        href="https://www.youtube.com/@codeworshipper?sub_confirmation=1"
+                        href=""
                         class="btn btn-primary m-top-20"
                         target="_blank"
                         >Subrek Now</a
@@ -233,7 +233,7 @@
                         href="https://codeworshipper.netlify.app"
                         class="btn btn-default m-top-20"
                         target="_blank"
-                        >See more CW</a
+                        >Lihat Detail</a
                       >
                     </div>
                   </div>
@@ -254,10 +254,9 @@
                     <i class="fa fa-thumbs-o-up"></i>
                   </div>
                   <div class="f_item_text">
-                    <h3>Best Quality Course</h3>
+                    <h3>Kursus Berkualitas Terbaik</h3>
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipiscing elit
-                      pellentesque eleifend in sit amet mattis volutpat rhoncus.
+                      Kami menghadirkan kursus dengan standar tinggi, materi lengkap, dan pengajar berpengalaman untuk mendukung pembelajaran yang maksimal.
                     </p>
                   </div>
                 </div>
@@ -268,10 +267,9 @@
                     <i class="fa fa-tablet"></i>
                   </div>
                   <div class="f_item_text">
-                    <h3>Responsive Course</h3>
+                    <h3>Belajar Fleksibel & Responsif</h3>
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipiscing elit
-                      pellentesque eleifend in sit amet mattis volutpat rhoncus.
+                      Akses materi kapan saja dan di mana saja melalui perangkat Anda. Belajar jadi lebih mudah dan sesuai gaya hidup Anda.
                     </p>
                   </div>
                 </div>
@@ -282,10 +280,9 @@
                     <i class="fa fa-sliders"></i>
                   </div>
                   <div class="f_item_text">
-                    <h3>Easy to Understand</h3>
+                    <h3>Mudah Dipahami</h3>
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipiscing elit
-                      pellentesque eleifend in sit amet mattis volutpat rhoncus.
+                      Setiap modul disusun dengan bahasa yang sederhana, dilengkapi panduan langkah demi langkah agar mudah dipraktikkan oleh siapa saja.
                     </p>
                   </div>
                 </div>
@@ -327,32 +324,28 @@
               <div class="col-md-6">
                 <div class="business_item sm-m-top-50">
                   <h2 class="text-uppercase">
-                    <strong>Kita</strong> is Website For Courses
+                    <strong>KURSUSKITA </strong> — PLATFORM BELAJAR PRAKTIS DAN KREATIF
                   </h2>
                   <ul>
                     <li>
-                      <i class="fa fa-arrow-circle-right"></i> Clean & Modern
-                      Course
+                      <i class="fa fa-arrow-circle-right"></i> Kursus Modern & Interaktif
                     </li>
                     <li>
-                      <i class="fa fa-arrow-circle-right"></i> Easy Understand
+                      <i class="fa fa-arrow-circle-right"></i> Materi Mudah Dipahami untuk Semua Usia
                     </li>
                     <li>
-                      <i class="fa fa-arrow-circle-right"></i> Certification
+                      <i class="fa fa-arrow-circle-right"></i> Sertifikat Resmi Setelah Lulus
                     </li>
                   </ul>
                   <p class="m-top-20">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit
-                    pellentesque eleifend in mi sit amet mattis suspendisse ac
-                    ligula volutpat nisl rhoncus sagittis cras suscipit lacus
-                    quis erat malesuada lobortis eiam dui magna volutpat commodo
-                    eget pretium vitae elit etiam luctus risus urna in malesuada
-                    ante convallis.
+                    Ingin mahir menjahit atau jago membuat kue?
+Kami hadir untuk membantu Anda belajar dengan cara yang menyenangkan, fleksibel, dan bisa diakses dari mana saja.
+Materi disusun secara sistematis dan dilengkapi panduan visual agar Anda bisa langsung praktik.
                   </p>
 
                   <div class="business_btn">
                     <a href="" class="btn btn-default m-top-20">Read More</a>
-                    <a href="#login" class="btn btn-primary m-top-20"
+                    <a href="{{ route('auth') }}rimary m-top-20"
                       >Start Now</a
                     >
                   </div>
