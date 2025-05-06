@@ -403,17 +403,17 @@ Materi disusun secara sistematis dan dilengkapi panduan visual agar Anda bisa la
                           </div>
                           <div class="port_caption m-top-20">
                             <h5>Wahyu Firdiansah</h5>
-                            <h6>- Roamer</h6>
+                            <h6>- 2302310231</h6>
                           </div>
                         </div>
                       </div>
                       <div class="col-sm-3">
                         <div class="port_item xs-m-top-30">
                           <div class="port_img">
-                            <img src="assets/images/raizel.jpeg" alt="" />
+                            <img src="assets/images/rizal.jpg" alt="" />
                             <div class="port_overlay text-center">
                               <a
-                                href="assets/images/raizel.jpeg"
+                                href="assets/images/rizal.jpg"
                                 class="popup-img"
                                 >+</a
                               >
@@ -421,43 +421,43 @@ Materi disusun secara sistematis dan dilengkapi panduan visual agar Anda bisa la
                           </div>
                           <div class="port_caption m-top-20">
                             <h5>Achmad Rizal Firmansyah</h5>
-                            <h6>- Jungler</h6>
+                            <h6>- 2302310242</h6>
                           </div>
                         </div>
                       </div>
                       <div class="col-sm-3">
                         <div class="port_item xs-m-top-30">
                           <div class="port_img">
-                            <img src="assets/images/work-img3.jpg" alt="" />
+                            <img src="assets/images/elya.jpg" alt="" />
                             <div class="port_overlay text-center">
                               <a
-                                href="assets/images/work-img3.jpg"
+                                href="assets/images/elya.jpg"
                                 class="popup-img"
                                 >+</a
                               >
                             </div>
                           </div>
                           <div class="port_caption m-top-20">
-                            <h5>Your Course Title</h5>
-                            <h6>- Graphic Design</h6>
+                            <h5>Elya Al Itriyah</h5>
+                            <h6>- 2302310247</h6>
                           </div>
                         </div>
                       </div>
                       <div class="col-sm-3">
                         <div class="port_item xs-m-top-30">
                           <div class="port_img">
-                            <img src="assets/images/work-img4.jpg" alt="" />
+                            <img src="assets/images/dian.jpg" alt="" />
                             <div class="port_overlay text-center">
                               <a
-                                href="assets/images/work-img4.jpg"
+                                href="assets/images/dian.jpg"
                                 class="popup-img"
                                 >+</a
                               >
                             </div>
                           </div>
                           <div class="port_caption m-top-20">
-                            <h5>Your Course Title</h5>
-                            <h6>- Graphic Design</h6>
+                            <h5>Dian Safitri</h5>
+                            <h6>- 2302310214</h6>
                           </div>
                         </div>
                       </div>
@@ -482,61 +482,61 @@ Materi disusun secara sistematis dan dilengkapi panduan visual agar Anda bisa la
                           </div>
                           <div class="port_caption m-top-20">
                             <h5>Wahyu Firdiasah</h5>
-                            <h6>- Roamer</h6>
+                            <h6>- 2302310231</h6>
                           </div>
                         </div>
                       </div>
                       <div class="col-sm-3">
                         <div class="port_item xs-m-top-30">
                           <div class="port_img">
-                            <img src="assets/images/work-img2.jpg" alt="" />
+                            <img src="assets/images/rizal.jpg" alt="" />
                             <div class="port_overlay text-center">
                               <a
-                                href="assets/images/work-img2.jpg"
+                                href="assets/images/rizal.jpg"
                                 class="popup-img"
                                 >+</a
                               >
                             </div>
                           </div>
                           <div class="port_caption m-top-20">
-                            <h5>Your Course Title</h5>
-                            <h6>- Graphic Design</h6>
+                            <h5>Achmad Rizal Firmansyah</h5>
+                            <h6>- 2302310242</h6>
                           </div>
                         </div>
                       </div>
                       <div class="col-sm-3">
                         <div class="port_item xs-m-top-30">
                           <div class="port_img">
-                            <img src="assets/images/work-img3.jpg" alt="" />
+                            <img src="assets/images/elya.jpg" alt="" />
                             <div class="port_overlay text-center">
                               <a
-                                href="assets/images/work-img3.jpg"
+                                href="assets/images/elya.jpg"
                                 class="popup-img"
                                 >+</a
                               >
                             </div>
                           </div>
                           <div class="port_caption m-top-20">
-                            <h5>Your Course Title</h5>
-                            <h6>- Graphic Design</h6>
+                            <h5>Elya Al Itriyah</h5>
+                            <h6>- 2302310247</h6>
                           </div>
                         </div>
                       </div>
                       <div class="col-sm-3">
                         <div class="port_item xs-m-top-30">
                           <div class="port_img">
-                            <img src="assets/images/work-img4.jpg" alt="" />
+                            <img src="assets/images/dian.jpg" alt="" />
                             <div class="port_overlay text-center">
                               <a
-                                href="assets/images/work-img4.jpg"
+                                href="assets/images/dian.jpg"
                                 class="popup-img"
                                 >+</a
                               >
                             </div>
                           </div>
                           <div class="port_caption m-top-20">
-                            <h5>Your Course Title</h5>
-                            <h6>- Graphic Design</h6>
+                            <h5>Dian Safitri</h5>
+                            <h6>- 2302310214</h6>
                           </div>
                         </div>
                       </div>
@@ -561,61 +561,61 @@ Materi disusun secara sistematis dan dilengkapi panduan visual agar Anda bisa la
                           </div>
                           <div class="port_caption m-top-20">
                             <h5>Wahyu Firdiasnah</h5>
-                            <h6>- Roamer</h6>
+                            <h6>- 2302310231</h6>
                           </div>
                         </div>
                       </div>
                       <div class="col-sm-3">
                         <div class="port_item xs-m-top-30">
                           <div class="port_img">
-                            <img src="assets/images/work-img2.jpg" alt="" />
+                            <img src="assets/images/rizal.jpg" alt="" />
                             <div class="port_overlay text-center">
                               <a
-                                href="assets/images/work-img2.jpg"
+                                href="assets/images/rizal.jpg"
                                 class="popup-img"
                                 >+</a
                               >
                             </div>
                           </div>
                           <div class="port_caption m-top-20">
-                            <h5>Your Course Title</h5>
-                            <h6>- Graphic Design</h6>
+                            <h5>Achmad Rizal Firmansyah</h5>
+                            <h6>- 2302310242</h6>
                           </div>
                         </div>
                       </div>
                       <div class="col-sm-3">
                         <div class="port_item xs-m-top-30">
                           <div class="port_img">
-                            <img src="assets/images/work-img3.jpg" alt="" />
+                            <img src="assets/images/elya.jpg" alt="" />
                             <div class="port_overlay text-center">
                               <a
-                                href="assets/images/work-img3.jpg"
+                                href="assets/images/elya.jpg"
                                 class="popup-img"
                                 >+</a
                               >
                             </div>
                           </div>
                           <div class="port_caption m-top-20">
-                            <h5>Your Course Title</h5>
-                            <h6>- Graphic Design</h6>
+                            <h5>Elya Al Itriyah</h5>
+                            <h6>- 2302310247</h6>
                           </div>
                         </div>
                       </div>
                       <div class="col-sm-3">
                         <div class="port_item xs-m-top-30">
                           <div class="port_img">
-                            <img src="assets/images/work-img4.jpg" alt="" />
+                            <img src="assets/images/dian.jpg" alt="" />
                             <div class="port_overlay text-center">
                               <a
-                                href="assets/images/work-img4.jpg"
+                                href="assets/images/dian.jpg"
                                 class="popup-img"
                                 >+</a
                               >
                             </div>
                           </div>
                           <div class="port_caption m-top-20">
-                            <h5>Your Course Title</h5>
-                            <h6>- Graphic Design</h6>
+                            <h5>Dian Safitri</h5>
+                            <h6>- 2302310214</h6>
                           </div>
                         </div>
                       </div>
@@ -655,7 +655,7 @@ Materi disusun secara sistematis dan dilengkapi panduan visual agar Anda bisa la
               <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="head_title text-center fix">
                   <h2 class="text-uppercase">What Teacher Say</h2>
-                  <h5>Clean and Modern course is our best specialist</h5>
+                  <h5>Anggota Kelompok 4 :</h5>
                 </div>
               </div>
 
