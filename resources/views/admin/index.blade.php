@@ -99,7 +99,7 @@
           >
             <div class="bg-white py-2 collapse-inner rounded">
               <h6 class="collapse-header">Kontrol Data Pengguna:</h6>
-              <a class="collapse-item" href="">Pengguna</a>
+              <a class="collapse-item" href="{{ route('users') }}">Pengguna</a>
             </div>
           </div>
         </li>
