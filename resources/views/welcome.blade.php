@@ -671,8 +671,8 @@ Materi disusun secara sistematis dan dilengkapi panduan visual agar Anda bisa la
                   </div>
 
                   <div class="item_text">
-                    <h5>Abdur Rahman</h5>
-                    <h6>envato.com</h6>
+                    <h5>Abd Rahman Siddik</h5>
+                    <h6>abd.</h6>
 
                     <p>
                       Natus voluptatum enim quod necessitatibus quis expedita
